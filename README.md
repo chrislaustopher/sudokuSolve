@@ -19,7 +19,7 @@ To use, compile Main.java, run it, and then input your sudoku puzzle with space-
 Example: 
 0 4 0 0 1 0 0 9 0 8 0 9 0 0 0 4 0 0 0 0 0 0 0 0 0 6 8 9 0 0 0 7 5 0 0 0 3 0 8 0 0 0 5 0 1 0 0 0 1 2 0 0 0 9 6 1 0 0 0 0 0 0 0 0 0 7 0 0 0 1 0 2 0 8 0 0 4 0 0 7 0
 will become:
------------------------ 
+ ----------------------- 
 | 0 4 0 | 0 1 0 | 0 9 0 |
 | 8 0 9 | 0 0 0 | 4 0 0 |
 | 0 0 0 | 0 0 0 | 0 6 8 |
@@ -32,5 +32,3 @@ will become:
 | 0 0 7 | 0 0 0 | 1 0 2 |
 | 0 8 0 | 0 4 0 | 0 7 0 |
  ----------------------- 
- 
-and the puzzle will very quickly be solved.
