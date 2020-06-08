@@ -14,21 +14,4 @@ To solve the puzzle, the application follows these steps:
   2. It reaches the complete puzzle solution.
 
 ### How to use
-To use, compile Main.java, run it, and then input your sudoku puzzle with space-separated numbers (with 0 as empty space)
-
-Example: 
-0 4 0 0 1 0 0 9 0 8 0 9 0 0 0 4 0 0 0 0 0 0 0 0 0 6 8 9 0 0 0 7 5 0 0 0 3 0 8 0 0 0 5 0 1 0 0 0 1 2 0 0 0 9 6 1 0 0 0 0 0 0 0 0 0 7 0 0 0 1 0 2 0 8 0 0 4 0 0 7 0
-will become:
- ----------------------- 
-| 0 4 0 | 0 1 0 | 0 9 0 |
-| 8 0 9 | 0 0 0 | 4 0 0 |
-| 0 0 0 | 0 0 0 | 0 6 8 |
- ----------------------- 
-| 9 0 0 | 0 7 5 | 0 0 0 |
-| 3 0 8 | 0 0 0 | 5 0 1 |
-| 0 0 0 | 1 2 0 | 0 0 9 |
- ----------------------- 
-| 6 1 0 | 0 0 0 | 0 0 0 |
-| 0 0 7 | 0 0 0 | 1 0 2 |
-| 0 8 0 | 0 4 0 | 0 7 0 |
- ----------------------- 
+To use, compile Main.java, run it, and then input your sudoku puzzle with space-separated numbers (with 0 as empty space), row by row from left to right
